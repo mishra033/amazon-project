@@ -1,2 +1,2 @@
 # amazon-project
-hey , this is my first project
+Hey , this is my first project. It is a simple cloning of front page of amazon website.
